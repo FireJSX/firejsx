@@ -16,6 +16,4 @@
 - 📱 **App Dev:** Android Studio  
 - 🎬 **Film & Editing:** Premiere Pro, DaVinci Resolve
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=firejsx"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firejsx)](https://github.com/firejsx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firejsx&layout=compact)](https://github.com/firejsx/github-readme-stats)
