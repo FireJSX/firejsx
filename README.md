@@ -15,3 +15,5 @@
 - 🎨 **Design:** Photoshop, Illustrator, After Effects, InDesign  
 - 📱 **App Dev:** Android Studio  
 - 🎬 **Film & Editing:** Premiere Pro, DaVinci Resolve  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firejsx)](https://github.com/firejsx/github-readme-stats)
