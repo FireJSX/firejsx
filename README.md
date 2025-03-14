@@ -14,6 +14,8 @@
 - 💻 **Languages:** Java, Python, JavaScript, HTML/CSS  
 - 🎨 **Design:** Photoshop, Illustrator, After Effects, InDesign  
 - 📱 **App Dev:** Android Studio  
-- 🎬 **Film & Editing:** Premiere Pro, DaVinci Resolve  
+- 🎬 **Film & Editing:** Premiere Pro, DaVinci Resolve
+
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?usernae==firejsx"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firejsx)](https://github.com/firejsx/github-readme-stats)
