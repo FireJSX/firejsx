@@ -16,4 +16,6 @@
 - 📱 **App Dev:** Android Studio  
 - 🎬 **Film & Editing:** Premiere Pro, DaVinci Resolve
 
+
+<!---
 <img alt="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firejsx&layout=compact"/>
