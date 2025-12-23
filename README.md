@@ -8,7 +8,7 @@
 - 📱 Developed an **Android App** in Java  
 - 🎮 Created a few **Python Games**  
 - 🎥 Experienced in **Film & Motion Design**  
-- 📸 Recently active **Photographer** on Instagram  
+- 📸 Recently active **Photographer** 
 
 ## 🔧 Tech Stack  
 - 💻 **Languages:** Java, Python, JavaScript, HTML/CSS  
